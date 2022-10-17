@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/IntroductionScene.unity
+    guid: 57530efa3590ff44487c628b407f8282
+  - enabled: 0
+    path: Assets/Scenes/LearningScene.unity
+    guid: 835f4087cead9934d9d187715398ade8
+  - enabled: 0
+    path: Assets/Scenes/AlphabetTypingScene.unity
+    guid: 14cabd5fdabd27941a0a71243c4d4fd2
+  - enabled: 0
+    path: Assets/Scenes/FinishAlphabetTypingScene.unity
+    guid: d366ecd323404f3469b4e1c0e04b15d3
+  - enabled: 0
+    path: Assets/Scenes/NumberTypingScene.unity
+    guid: 4354737712f850542a013622845d0682
+  - enabled: 0
+    path: Assets/Scenes/FinishNumberTypingScene.unity
+    guid: 92a79f0d54a37834d8e9bc24d8652566
+  - enabled: 0
+    path: Assets/Scenes/AlphabetGuessingScene.unity
+    guid: 2a94862db32d80141aa5be2c725d2783
+  - enabled: 0
+    path: Assets/Scenes/FinishAlphabetGuessingScene.unity
+    guid: 8d1e83dd6db2d0141980d385c252cf91
+  - enabled: 0
+    path: Assets/Scenes/NumberGuessingScene.unity
+    guid: 96d5097fc1eef8f419c2f78805b57fba
+  - enabled: 0
+    path: Assets/Scenes/FinishNumberGuessingScene.unity
+    guid: fab5a7d31e2c9cf47a3c57a4734d87f2
+  - enabled: 0
+    path: Assets/Scenes/LearningIntroduction.unity
+    guid: 241bd094dcfe93147bc3aabed43b792b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/NumberLearningScene.unity
+    guid: 3e2080a501460404ab6d86ae06a1f474
+  - enabled: 0
+    path: Assets/Scenes/AlphabetLearningScene.unity
+    guid: 8de5125f1faab2c40abb3383a959ead6
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Main_Menu_Scene.unity
+    guid: 8cd77b51cac434a4faa44eb3df27e250
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Learning_Main_Menu_Scene.unity
+    guid: 6b3d2c2c08ee15f4299ce10336d89e0f
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Alphabet_Learning_Scene.unity
+    guid: fe1d8637b79fed444b82c073d8e02f4b
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Number_Learning_Scene.unity
+    guid: 99e4efb91d05af1449a7bd88b46c1742
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Alphabet_Typing_Scene.unity
+    guid: 2e6a89de4fe8b424b9054ea515f671f6
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Number_Typing_Scene.unity
+    guid: ce721a340ebb71640899c5830868336c
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Alphabet_Guessing_Scene.unity
+    guid: 0f6a3f58a87cb3247b42d1e5b533724b
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Number_Guessing_Scene.unity
+    guid: fde800ab9afeb824f884b6ae5d3431f6
+  - enabled: 1
+    path: Assets/Scenes/Scene Revision/Player_Score_Scene.unity
+    guid: 4f88efd9e865f334ebcbf12e36bc05f0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eeb4195c4fee9ee46bfbebc6a9a9d68e,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 76cc6914ac576454abcb09a1d56c96f1,
+      type: 2}
