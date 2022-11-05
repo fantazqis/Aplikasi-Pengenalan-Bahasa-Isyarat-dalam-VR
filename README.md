@@ -1,4 +1,3 @@
 # Aplikasi-Pengenalan-Bahasa-Isyarat-dalam-VR
-APLIKASI PENGENALAN FINGERSPELLING DALAM SIBI BERBASIS REALITAS VIRTUAL DENGAN HAND GESTURE MENGGUNAKAN TEKNOLOGI OCULUS QUEST 2
-
-https://www.youtube.com/watch?v=iUJqufs6Rrw&t=323s
+video demo :
+https://www.youtube.com/watch?v=uSgsRDcfplE
